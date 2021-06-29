@@ -1,5 +1,5 @@
 
-<img src="computer-illustration.png" width="400px" align="right" alt="notebook joao">
+<img src="computer-illustration.png" width="350px" align="right" alt="notebook joao">
 
 
 <p align="left"> 
