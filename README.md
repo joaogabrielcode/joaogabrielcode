@@ -15,11 +15,11 @@
 - ⚠️ Looking for a job 🔎 
 
 <p align="left">
-  🤹🏻 Skills: <strong>HTML, CSS, JavaScript.</strong>
+  🤹🏻 <strong>Skills</strong> : <i>HTML, CSS, JavaScript.</i>
 </p>
 
 <p align="left">
-  🔧 Tools: <strong>VSCode, Linux Terminal, Git and GitHub.</strong>
+  🔧 <strong>Tools:</strong> <i>VSCode, Linux Terminal, Git and GitHub.</i>
 </p>
 
 
