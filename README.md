@@ -12,7 +12,6 @@
 
 - 🎓 Graduating on Analysis and Systems Development at [@**UFRN**](https://www.ufrn.br/)  
 - 🇧🇷 Living in Natal/RN, Brazil
-- ⚠️ Looking for a job 🔎 
 
 <p align="left">
   🤹🏻 <strong>Skills</strong> : <i>HTML, CSS, JavaScript.</i>
