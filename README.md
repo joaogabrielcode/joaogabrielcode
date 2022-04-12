@@ -14,7 +14,7 @@
 - 🇧🇷 Living in Natal/RN, Brazil
 
 <p align="left">
-  🤹🏻 <strong>Skills</strong> : <i>HTML, CSS, JavaScript & ReactJs.</i>
+  🤹🏻 <strong>Skills</strong> : <i>Reactjs, Javascript, HTML & CSS</i>
 </p>
 
 <p align="left">
